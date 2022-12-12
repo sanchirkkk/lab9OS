@@ -2,12 +2,12 @@
 
 ## Memory Partition
 ```C
- Memory Partition  => 300 , 600 , 350 , 200 , 750 
+    Memory Partition  => 300 , 600 , 350 , 200 , 750 
 
  ```
 
- ## 
+ ## Processes
 
  ```C
- Processes  => 115, 500 , 358 , 200 , 375
+    Processes  => 115, 500 , 358 , 200 , 375
  ```
